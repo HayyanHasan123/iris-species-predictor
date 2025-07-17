@@ -1,4 +1,4 @@
-# Iris Flower Species Predictor 🌸
+# Iris Flower Species Predictor 
 
 This project is a machine learning application that predicts the species of an Iris flower, **Setosa**, **Versicolor**, or **Virginica** based on user inputted measurements of **sepal length**, **sepal width**, **petal length**, and **petal width**.
 
