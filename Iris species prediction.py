@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
-df = pd.read_csv("C:\\Users\\T L S\\Downloads\\archive.zip")
+df = pd.read_csv("Iris.csv")
 
 print(df.info()) #basic info of file
 print(df.head()) #prints first 5 rows
